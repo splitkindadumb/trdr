@@ -4,8 +4,7 @@
   "description": "The Roblox Developer's Resource",
   "main": "trdr.js",
   "scripts": {
-    "start": "node trdr.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node trdr.js"
   },
   "author": "split#1337"
 }
