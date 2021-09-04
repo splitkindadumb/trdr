@@ -1,0 +1,10 @@
+{
+  "name": "trdr",
+  "version": "1.0.0",
+  "description": "The Roblox Developer's Resource",
+  "main": "trdr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "split#1337"
+}
